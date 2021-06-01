@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/edukids-portfolio/static/css/main.8c7d7402.chunk.css",
-    "main.js": "/edukids-portfolio/static/js/main.09f59dd3.chunk.js",
-    "main.js.map": "/edukids-portfolio/static/js/main.09f59dd3.chunk.js.map",
+    "main.js": "/edukids-portfolio/static/js/main.fb29b521.chunk.js",
+    "main.js.map": "/edukids-portfolio/static/js/main.fb29b521.chunk.js.map",
     "runtime-main.js": "/edukids-portfolio/static/js/runtime-main.a9b4228b.js",
     "runtime-main.js.map": "/edukids-portfolio/static/js/runtime-main.a9b4228b.js.map",
-    "static/js/2.2e63e08b.chunk.js": "/edukids-portfolio/static/js/2.2e63e08b.chunk.js",
-    "static/js/2.2e63e08b.chunk.js.map": "/edukids-portfolio/static/js/2.2e63e08b.chunk.js.map",
+    "static/js/2.2921dde0.chunk.js": "/edukids-portfolio/static/js/2.2921dde0.chunk.js",
+    "static/js/2.2921dde0.chunk.js.map": "/edukids-portfolio/static/js/2.2921dde0.chunk.js.map",
     "index.html": "/edukids-portfolio/index.html",
     "static/css/main.8c7d7402.chunk.css.map": "/edukids-portfolio/static/css/main.8c7d7402.chunk.css.map",
-    "static/js/2.2e63e08b.chunk.js.LICENSE.txt": "/edukids-portfolio/static/js/2.2e63e08b.chunk.js.LICENSE.txt",
+    "static/js/2.2921dde0.chunk.js.LICENSE.txt": "/edukids-portfolio/static/js/2.2921dde0.chunk.js.LICENSE.txt",
     "static/media/portfolio.css": "/edukids-portfolio/static/media/background.a71b58a8.jpg",
     "static/media/base.css": "/edukids-portfolio/static/media/background.f645f299.svg",
     "static/media/briefcase.9e122cd3.svg": "/edukids-portfolio/static/media/briefcase.9e122cd3.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a9b4228b.js",
-    "static/js/2.2e63e08b.chunk.js",
+    "static/js/2.2921dde0.chunk.js",
     "static/css/main.8c7d7402.chunk.css",
-    "static/js/main.09f59dd3.chunk.js"
+    "static/js/main.fb29b521.chunk.js"
   ]
 }
